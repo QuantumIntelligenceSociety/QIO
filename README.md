@@ -4,3 +4,5 @@ Our ultimate goal is to replace classical superintelligence with quantum-powered
 We call this Artificial Ultraintelligence (AUI).
 
 "QIO" is a trademark of the [Quantum Intelligence Society](https://quantumintelligencesociety.org), a DC-based nonprofit dedicated to the merging of quantum and artificial intelligence.
+
+If we can truly achieve our goal, this repository will likely become the number one repository on all of Github.
