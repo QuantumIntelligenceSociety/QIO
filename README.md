@@ -3,4 +3,4 @@ Next-generation quantum language model (QLM) architecture. Ideation stage, long-
 Our ultimate goal is to replace classical superintelligence with quantum-powered ultraintelligence.  
 We call this Artificial Ultraintelligence (AUI).
 
-"QIO" is a trademark of the Quantum Intelligence Society, a DC-based nonprofit dedicated to the merging of quantum and artificial intelligence.
+"QIO" is a trademark of the [Quantum Intelligence Society](https://quantumintelligencesociety.org), a DC-based nonprofit dedicated to the merging of quantum and artificial intelligence.
