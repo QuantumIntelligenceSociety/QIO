@@ -4,7 +4,7 @@ QIO™ is a next-generation quantum language model (QLM) architecture.
 Our ultimate goal is to replace classical superintelligence with quantum-powered ultraintelligence.  
 We call this Artificial Ultraintelligence (AUI).
 
-QIO, pronounced "key-o", stands for Quantum Input/Output.
+QIO, pronounced "key-o", stands for Quantum Input/Output.  
 QIO is a trademark of the [Quantum Intelligence Society (QIS)](https://quantumintelligencesociety.org), a DC-based nonprofit dedicated to the merging of quantum and artificial intelligence.
 
 If we can truly achieve our goal, this repository will likely become the number one repository on all of Github, and the most powerful AI model in the world.  
