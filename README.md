@@ -17,3 +17,5 @@ With that said, we will break our development into stages, starting with hybrid 
 
 We are currently in phase 1/4.
 Getting from phase 1 to phase 4 may be achieved before 2030 (5 years from this project's inception), but we are confident not only that quantum AUI is coming soon, but that we may be the world's first to achieve true AUI.
+
+Note that we are the first in the world to coin the term Artificial Ultraintelligence (AUI).
