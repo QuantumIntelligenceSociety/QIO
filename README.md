@@ -3,7 +3,8 @@ The Road to Artificial Ultraintelligence (AUI)
 QIO (pronounced “key-o”) is a next-generation Quantum Language Model (QLM) architecture, designed to build the ultimate form of intelligence ever created:
 
 Quantum-powered Artificial Superintelligence.  
-In our framework, we call this: Artificial Ultraintelligence (AUI).
+In our framework, we call this: Artificial Ultraintelligence (AUI).  
+In other words, QASI = UAI.
 
 ### 🧠 What is AUI?  
 > "Let an ultra-intelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever."  
