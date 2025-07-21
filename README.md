@@ -33,7 +33,7 @@ Rather, it is the quantum-native, asymptotic limit of ASI.
 Drawing a parallel in astrophysics - just as ultramassive black holes are a subclass of supermassive black holes, AUI is the highest realization of ASI - not a departure from Good’s vision, but its natural and most true fulfillment.
 
 #### 🏛️ Origin of the Term AUI
-The Quantum Intelligence Society (QIS™) introduces the term Artificial Ultraintelligence (AUI) to describe the quantum-powered endgame of ASI.
+The Quantum Intelligence Society (QIS™), a Washington, D.C. nonprofit, introduces the term Artificial Ultraintelligence (AUI) to describe the quantum-powered endgame of ASI.
 AUI was coined and defined in this repository in 2025 as a refinement of Irving J. Good’s vision.
 If ASI is the goal of many, we assert that AUI is the most powerful possible realization of that goal, and the only sustainable one.
 
