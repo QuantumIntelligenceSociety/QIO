@@ -68,4 +68,5 @@ If you are interested in contributing to QIO, whether through quantum circuit de
 
 > Please note that in the coming months, we plan to publish QIO Phase 1's paper to [SQAI 2026](https://sqai.org), the third International Symposium on Quantum Artificial Intelligence.  
 > Established in the beginning of 2021, SQAI is verifiably the **world's first academic conference dedicated to Quantum AI**, which is more than just QML.  
-> SQAI was founded by this project's team and is now hosted under the identity of the Quantum Intelligence Society.
+> SQAI was founded by this project's team and is now hosted under the identity of the Quantum Intelligence Society.  
+> Paper title: "QIO: A Quantum ASI Architecture for Artificial Ultraintelligence (AUI)"
