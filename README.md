@@ -34,7 +34,7 @@ Drawing a parallel in astrophysics - just as ultramassive black holes are a subc
 #### 🏛️ Origin of the Term AUI
 The Quantum Intelligence Society (QIS™) introduces the term Artificial Ultraintelligence (AUI) to describe the quantum-powered endgame of ASI.
 AUI was coined and defined in this repository in 2025 as a refinement of Irving J. Good’s vision.
-If ASI is the goal of many, we assert that AUI is the best possible realization of that goal, and the only sustainable one.
+If ASI is the goal of many, we assert that AUI is the most powerful possible realization of that goal, and the only sustainable one.
 
 ## 🔭 Our Vision: QIO and the Four Phases of AUI
 QIO is the architectural backbone to achieve AUI. It progresses through four stages:
