@@ -51,3 +51,15 @@ a quantum-native AI model that outperforms even the most advanced future ASI sys
 
 This is not just theoretical.  
 This is the roadmap to build the most powerful intelligence on Earth — and to do it openly, efficiently, and quantum-first.
+
+# 👥 Team
+- Austin Hua –  QIS Founder, Coiner of AUI
+- Daniel Ruiz – Quantum Software Engineer, QIS TPC
+
+We are building QIO as an open, collaborative project at the intersection of quantum computing and artificial intelligence.
+If you are interested in contributing to QIO, whether through quantum circuit design, theoretical modeling, algorithm optimization, or system-level architecture, we welcome collaborators, researchers, and engineers from all backgrounds.
+
+## 💡 Get Involved
+- 📬 Email: austinhua@ieee.org
+- 🌐 Website: [Quantum Intelligence Society (QIS)](https://quantumintelligencesociety.org)
+- 📂 License: MIT (open source, community-driven)
