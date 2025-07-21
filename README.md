@@ -61,5 +61,5 @@ If you are interested in contributing to QIO, whether through quantum circuit de
 
 ## 💡 Get Involved
 - 📬 Email: austinhua@ieee.org
-- 🌐 Website: [Quantum Intelligence Society (QIS)](https://quantumintelligencesociety.org)
+- 🌐 Website: [Quantum Intelligence Society (QIS)](https://quantumintelligencesociety.org) - coming soon
 - 📂 License: MIT (open source, community-driven)
