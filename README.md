@@ -4,7 +4,7 @@ QIO (pronounced “key-o”) is a next-generation Quantum Language Model (QLM) a
 
 Quantum-powered Artificial Superintelligence.  
 In our framework, we call this: Artificial Ultraintelligence (AUI).  
-In other words, QASI = UAI.
+In other words, QASI = AUI.
 
 ### 🧠 What is AUI?  
 > "Let an ultra-intelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever."  
