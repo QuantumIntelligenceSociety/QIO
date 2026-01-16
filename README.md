@@ -55,7 +55,6 @@ This is the roadmap to build the most powerful intelligence on Earth — and to 
 
 # 👥 Team
 - [Austin Hua](https://austinhua.com) – QIS Founder, Coiner of AUI
-- [Daniel Ruiz](https://www.linkedin.com/in/luisdanielruiz-in/) – Qnow.tech founder, QIS TPC
 
 We are building QIO as an open, collaborative project at the intersection of quantum computing and artificial intelligence.
 If you are interested in contributing to QIO, whether through quantum circuit design, theoretical modeling, algorithm optimization, or system-level architecture, we welcome collaborators, researchers, and engineers from all backgrounds.
